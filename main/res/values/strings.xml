@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spider 2</string>
+    <string name="name">Name</string>
+    <string name="roll_number">Roll number</string>
+    <string name="spider_inductions_2016">SPIDER INDUCTIONS 2016</string>
+    <string name="web_dev">Web Dev</string>
+    <string name="tronix">Tronix</string>
+    <string name="algos">Algos</string>
+    <string name="app_dev">App Dev</string>
+    <string name="mentorship_required">Mentorship Required</string>
+    <string name="submit">SUBMIT</string>
+</resources>

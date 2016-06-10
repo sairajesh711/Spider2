@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments">
+        <item>Computer Science Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Instrumentation and Control Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Production Engineering</item>
+        <item>Metallurgical and Material Sciences Department</item>
+    </string-array>
+
+</resources>
